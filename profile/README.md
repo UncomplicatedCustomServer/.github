@@ -2,8 +2,8 @@
 **UncomplicatedCustomServer** is an organization formed as a result of the creation of the [UncomplicatedCustomRoles]() plugin and aims to create core plugins that add additional and advanced functionality to your server!
 
 ## Our Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomRoles&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomAbilities&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomRoles&theme=dark)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomAbilities&theme=dark)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomAbilities)
 **UncomplicatedCustomItems** is still private while in development.
 
 ## Developers
