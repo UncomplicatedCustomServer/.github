@@ -10,6 +10,14 @@
 <a href="https://github.com/FoxWorn3365"><img src="https://avatars.githubusercontent.com/u/61429263?v=4" height="100" style="border-radius:50%"></a>
 <a href="https://github.com/DrAgenda"><img src="https://avatars.githubusercontent.com/u/110844458?v=4" height="100" style="border-radius:50%"></a>
 
+## Contacts
+### FoxWorn3365
+**Discord:** `@foxworn`<br>
+**Email:** `foxworn3365@gmail.com`
+### DrAgenda
+**Discord:** `@dr.agenda`
+**Email:** `dragenda.contact@gmail.com`
+
 <!--
 
 **Here are some ideas to get you started:**
