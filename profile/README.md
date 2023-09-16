@@ -13,10 +13,10 @@
 ## Contacts
 ### FoxWorn3365
 **Discord:** `@foxworn`<br>
-**Email:** `foxworn3365@gmail.com`
+**Email:** [`foxworn3365@gmail.com`](mailto:foxworn3365@gmail.com)
 ### DrAgenda
-**Discord:** `@dr.agenda`
-**Email:** `dragenda.contact@gmail.com`
+**Discord:** `@dr.agenda`<br>
+**Email:** [`dragenda.contact@gmail.com`](mailto:dragenda.contact@gmail.com)
 
 <!--
 
