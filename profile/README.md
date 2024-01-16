@@ -10,7 +10,7 @@
 ## Developers
 <a href="https://github.com/FoxWorn3365"><img src="https://avatars.githubusercontent.com/u/61429263?v=4" height="100" style="border-radius:50%"></a>
 <a href="https://github.com/DrAgenda"><img src="https://avatars.githubusercontent.com/u/110844458?v=4" height="100" style="border-radius:50%"></a>
-<a href="https://github.com/SpGerg"><img src="https://avatars.githubusercontent.com/u/110844458?v=4" height="100" style="border-radius:50%"></a>
+<a href="https://github.com/SpGerg"><img src="https://avatars.githubusercontent.com/u/85746000?v=4" height="100" style="border-radius:50%"></a>
 
 ## Contacts
 [Join our Discord](https://discord.gg/5StRGu8EJV)
