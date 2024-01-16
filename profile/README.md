@@ -3,20 +3,16 @@
 
 ## Our Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomRoles&theme=dark)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomAbilities&theme=dark)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomAbilities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=Paganism&theme=dark)](https://github.com/UncomplicatedCustomServer/Paganism)
 **UncomplicatedCustomItems** is still private while in development.
 
 ## Developers
 <a href="https://github.com/FoxWorn3365"><img src="https://avatars.githubusercontent.com/u/61429263?v=4" height="100" style="border-radius:50%"></a>
 <a href="https://github.com/DrAgenda"><img src="https://avatars.githubusercontent.com/u/110844458?v=4" height="100" style="border-radius:50%"></a>
+<a href="[https://github.com/DrAgenda](https://github.com/SpGerg)"><img src="[https://avatars.githubusercontent.com/u/110844458?v=4](https://avatars.githubusercontent.com/u/85746000?v=4)" height="100" style="border-radius:50%"></a>
 
 ## Contacts
-### FoxWorn3365
-**Discord:** `@foxworn`<br>
-**Email:** [`foxworn3365@gmail.com`](mailto:foxworn3365@gmail.com)
-### DrAgenda
-**Discord:** `@dr.agenda`<br>
-**Email:** [`dragenda.contact@gmail.com`](mailto:dragenda.contact@gmail.com)
+[Join our Discord](https://discord.gg/5StRGu8EJV)
 
 <!--
 
