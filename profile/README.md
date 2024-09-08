@@ -27,6 +27,8 @@
 > **UncomplicatedCustomItems** or **UCI** is a plugin for your SCP:SL server that allows you to create fully customizable Custom Items without knowing how to create a plugin!
 ### [UncomplicatedCustomTeams](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomTeams)
 > **UncomplicatedCustomTeams** or **UCT** is a plugin for your SCP:SL server that allows you to create fully customizable respawn squads with **UCR**!
+### [SimpleDiscord](https://github.com/UncomplicatedCustomServer/SimpleDiscord)
+> **SimpleDiscord** is a fast, easy-to-use, mono-friendly library that will allow you to host a Discord bot inside your plugin
 
 ## Stay in touch
 - [**Join our Discord**](https://discord.gg/dpvHzC5mst)
