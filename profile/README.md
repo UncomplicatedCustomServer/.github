@@ -10,11 +10,11 @@
 **UncomplicatedCustomServer** is a free-to-use open-source plugin development studio for SCP:SL with the goal of providing server owners with the best tools to customize their server without knowing how to program
 
 ## Meet our Team
-| | Name | Role | | | Name | Role |
-|---|---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/fox.png" height="75px"> | [**FoxWorn3365**](https://github.com/FoxWorn3365) | **Project Manager** | | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/agenda.png" height="75px"> | [**Dr. Agenda**](https://github.com/DrAgenda) | *Retired* **Manager** |
-| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer | | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCS Reliability Analyst |
-| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/Mega5000201.png" height="75px"> | Mega5000201 | UCS Reliability Analyst | | | | |
+| | | Name | Role | | | | Name | Role |
+|---|---|---|---|---|---|---|---|---|
+| &#127470;&#127481; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/fox.png" height="75px"> | [**FoxWorn3365**](https://github.com/FoxWorn3365) | **Project Manager** | | &#127470;&#127481; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/agenda.png" height="75px"> | [**Dr. Agenda**](https://github.com/DrAgenda) | *Retired* **Manager** |
+| &#127479;&#127482; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer | | &#127477;&#127473; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCS Reliability Analyst |
+| &#127465;&#127466; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/Mega5000201.png" height="75px"> | Mega5000201 | UCS Reliability Analyst | | | | |
 
 ## Meet our Sponsors
 | | Name | Server |
