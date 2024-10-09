@@ -13,7 +13,8 @@
 | | Name | Role | | | Name | Role |
 |---|---|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/fox.png" height="75px"> | [**FoxWorn3365**](https://github.com/FoxWorn3365) | **Project Manager** | | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/agenda.png" height="75px"> | [**Dr. Agenda**](https://github.com/DrAgenda) | *Retired* **Manager** |
-| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer | | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCR Reliability Analyst |
+| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer | | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCS Reliability Analyst |
+| <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/Mega5000201.png" height="75px"> | Mega5000201 | UCS Reliability Analyst | | | | |
 
 ## Meet our Sponsors
 | | Name | Server |
@@ -29,6 +30,8 @@
 > **UncomplicatedCustomTeams** or **UCT** is a plugin for your SCP:SL server that allows you to create fully customizable respawn squads with **UCR**!
 ### [SimpleDiscord](https://github.com/UncomplicatedCustomServer/SimpleDiscord)
 > **SimpleDiscord** is a fast, easy-to-use, mono-friendly library that will allow you to host a Discord bot inside your plugin
+### [UncomplicatedDiscordIntegration](https://github.com/UncomplicatedCustomServer/UncomplicatedDiscordIntegration)
+> **UncomplicatedDiscordIntegration** or **UDI** is a plugin for your SCP:SL server that will log every event inside your Discord server with advanced features!
 
 ## Stay in touch
 - [**Join our Discord**](https://discord.gg/dpvHzC5mst)
