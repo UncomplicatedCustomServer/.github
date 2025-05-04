@@ -13,8 +13,8 @@
 | | | Name | Role | | | | Name | Role |
 |---|---|---|---|---|---|---|---|---|
 | &#127470;&#127481; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/fox.png" height="75px"> | [**FoxWorn3365**](https://github.com/FoxWorn3365) | **Project Manager** | | &#127470;&#127481; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/agenda.png" height="75px"> | [**Dr. Agenda**](https://github.com/DrAgenda) | *Retired* **Manager** |
-| &#127479;&#127482; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer | | &#127477;&#127473; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCS Reliability Analyst |
-| &#127465;&#127466; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/Mega5000201.png" height="75px"> | Mega5000201 | UCS Reliability Analyst | | | | |
+| &#127482;&#127480; | <img src="https://github.com/UncomplicatedCustomServer/.github/blob/main/images/mr_baguetter-modified.png" height="75px"> | [**Mr. Baguetter**](https://github.com/Mr-Baguetter) | **UCI Lead Developer** || &#127479;&#127482; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/naxefir.png" height="75px"> | **Naxefir** | UCR Feature Overseer |
+&#127477;&#127473; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/piwnica.png" height="75px"> | .Piwnica | UCS Reliability Analyst | | &#127465;&#127466; | <img src="https://raw.githubusercontent.com/UncomplicatedCustomServer/.github/main/images/Mega5000201.png" height="75px"> | Mega5000201 | UCS Reliability Analyst | 
 
 ## Meet our Sponsors
 | | Name | Server |
